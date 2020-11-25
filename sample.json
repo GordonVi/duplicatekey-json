@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/schubergphilis/schemas/master/Azure/variableGroupSchema.json",
+    "contentVersion": "1.0.0.0",
+    "variableGroups": [
+        {
+            "name": "serviceGroup-variables",
+            "project": "ccoe",
+            "description": "serviceGroup-variables",
+            "variables": {
+                "serviceGroupShortname": {
+                    "value": "ccoe",
+                    "isSecret": false,
+                    "isReadOnly": false
+                },
+                "serviceGroupShortname": {
+                    "value": "test",
+                    "isSecret": false,
+                    "isReadOnly": false
+                }
+            }
+        }
+    ]
+}
