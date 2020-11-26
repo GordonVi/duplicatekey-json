@@ -11,4 +11,4 @@ duplicatekey-json($string)
 - \>0 = number of duplicates  
 
 # Inspiration  
-Response to [this Reddit post.](https://old.reddit.com/r/PowerShell/comments/k0r4r4/detecting_duplicate_object_property_inside_the/)
+This is a response to [this Reddit post.](https://old.reddit.com/r/PowerShell/comments/k0r4r4/detecting_duplicate_object_property_inside_the/)
